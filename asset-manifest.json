@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LuizGabrielSS/receitas-web/static/css/main.90f6920e.css",
-    "main.js": "/LuizGabrielSS/receitas-web/static/js/main.90e7dbcd.js",
-    "static/js/453.57913fd3.chunk.js": "/LuizGabrielSS/receitas-web/static/js/453.57913fd3.chunk.js",
-    "index.html": "/LuizGabrielSS/receitas-web/index.html",
-    "main.90f6920e.css.map": "/LuizGabrielSS/receitas-web/static/css/main.90f6920e.css.map",
-    "main.90e7dbcd.js.map": "/LuizGabrielSS/receitas-web/static/js/main.90e7dbcd.js.map",
-    "453.57913fd3.chunk.js.map": "/LuizGabrielSS/receitas-web/static/js/453.57913fd3.chunk.js.map"
+    "main.css": "/receitas-web/static/css/main.90f6920e.css",
+    "main.js": "/receitas-web/static/js/main.1c17ab59.js",
+    "static/js/453.57913fd3.chunk.js": "/receitas-web/static/js/453.57913fd3.chunk.js",
+    "index.html": "/receitas-web/index.html",
+    "main.90f6920e.css.map": "/receitas-web/static/css/main.90f6920e.css.map",
+    "main.1c17ab59.js.map": "/receitas-web/static/js/main.1c17ab59.js.map",
+    "453.57913fd3.chunk.js.map": "/receitas-web/static/js/453.57913fd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90f6920e.css",
-    "static/js/main.90e7dbcd.js"
+    "static/js/main.1c17ab59.js"
   ]
 }
